@@ -1,4 +1,4 @@
-# AI Form Builder (Typeform Clone)
+# AI Form Generator
 
 A MERN starter for an AI-assisted form builder inspired by Typeform.
 
